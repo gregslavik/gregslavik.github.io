@@ -1,6 +1,2 @@
-theme: jekyll-theme-slate
-# title: Greg Slavik's homepage
-name: Greg Slavik's page
-title: null
-github:
-  is_project_page: false
+theme: jekyll-theme-minimal
+title: Greg Slavik's homepage
