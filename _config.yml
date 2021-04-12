@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Greg Slavik
 github:
-  is_project_page: false
-  show_downloads: false
+  is_project_page: no
+  show_downloads: no
