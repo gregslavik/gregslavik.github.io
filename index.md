@@ -4,6 +4,10 @@ You can use the editor on GitHub to maintain and preview the content for your we
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<a href="https://www.linkedin.com/in/gregslavik" target="_blank"><img src="./media/LinkedIn.png width="32" height="32"" alt="Linkedin" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/gregslavik" target="_blank"><img src="./media/Twitter.png width="32" height="32"" alt="Twitter" /></a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
